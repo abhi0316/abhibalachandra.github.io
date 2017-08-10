@@ -15,108 +15,6 @@ border-radius:50%;
 
 }
 
-.icons
-{
-
-
-}
-
-
-.tt-wrapper{
-
-        margin-top:3%;
-        
-	
-        
-	
-}
-.tt-wrapper li{
-        
-        float:left;
-        	
-}
-.tt-wrapper li a{
-	
-	display: block;
-	width: 68px;
-	height: 70px;
-	
-	outline: none;
-	background: transparent url(growcase_the_social_gunman_icons1.png) no-repeat top left;
-	text-indent: -9000px;
-	position: relative;
-}
-.tt-wrapper li .tt-gplus{
-    background-position: 0px 0px;
-}
-.tt-wrapper li .tt-twitter{
-	
-
-    
-    background-position: -68px 0px;
-}
-.tt-wrapper li .tt-dribbble{
-    
-    background-position: -136px 0px;
-}
-.tt-wrapper li .tt-facebook{
-    background-position: -204px 0px;
-}
-.tt-wrapper li .tt-linkedin{
-    background-position: -272px 0px;
-}
-.tt-wrapper li .tt-forrst{
-    background-position: -340px 0px;
-}
-.tt-wrapper li a span{
-	width: 100px;
-	height: auto;
-	line-height: 10px;
-	padding: 10px;
-	left: 100%;
-	margin-left: -70px;
-	font-family: 'Alegreya SC', Georgia, serif;
-	font-weight: 400;	
-	font-style: italic;
-	font-size: 14px;
-	color:#ffffff;
-	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
-	text-align: center;
-	border: 4px solid #fff;
-	background: rgba(255,255,255,0.3);
-	text-indent: 0px;
-	border-radius: 5px;
-	position: absolute;
-	pointer-events: none;
-	bottom: 100px;
-	opacity: 0;
-	box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	-o-transition: all 0.3s ease-in-out;
-	-ms-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
-}
-.tt-wrapper li a span:before,
-.tt-wrapper li a span:after{
-	content: '';
-	position: absolute;
-	bottom: -15px;
-	left: 50%;
-	margin-left: -9px;
-	width: 0;
-	height: 0;
-	
-}
-.tt-wrapper li a span:after{
-	bottom: -14px;
-	margin-left: -10px;
-	border-top: 10px solid #fff;
-}
-.tt-wrapper li a:hover span{
-	opacity: 0.9;
-	bottom: 70px;
-}
 .abhi
 
 {
@@ -127,17 +25,6 @@ background-image:url(9.jpg);
 background-size:100% auto;
 }
 
-
-
-
-@keyframes type{ 
-  from { width: 8; } 
-}
- 
-
-
-
-
 .details
 {
 
@@ -145,41 +32,7 @@ font-family: "Courier";
 font-size: 20px;
 text-align:center;
 color: lime;
-margin:center; 
+ 
 }
+
 	
-.name
-
-{
-
-  padding-top:5px;
-
-  color: lime;
- 
-  font-family: "Courier";
-
-  font-size: 20px;
- 
- margin: 10px 0 0 10px;
-
-  white-space: nowrap;
-  
- overflow:hidden;  
-width: 50em;
-
-  animation: type 8s steps(60, end); 
-}
-
-@keyframes type{ 
-  from { width: 8; } 
-}
- 
-
-@keyframes type1{ 
-  from { width: 8; } 
-}
-.tt-wrapper
-{
-	position:absolute;
-	}
-

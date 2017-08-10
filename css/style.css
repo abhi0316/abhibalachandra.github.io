@@ -9,8 +9,7 @@ a:link {
 {
 height:100px; 
 width:100px;
-margin-top:10%;
-margin-left:center;
+
 border-radius:50%;
 
 }
@@ -37,7 +36,7 @@ color: lime;
 position:absolute;
 top:calc(50vh); 
 left:calc(50vw);
-margin-top:-10em;
+margin-top:-8em;
 margin-left:-16em;
 }
 

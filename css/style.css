@@ -21,9 +21,10 @@ border-radius:50%;
 text-align:center;
 height:100%;
 width:100%;
-background-image:url(9.jpg);
+background:black;
+background:linear-gradient(to left,black,#2f4f4f);
+background:-moz-linear-gradient(left,black,#2f4f4f);
 background-size:100% auto;
-background-repeat:no-repeat;
 }
 
 .details

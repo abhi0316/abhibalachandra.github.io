@@ -35,10 +35,10 @@ font-size: 25px;
 text-align:center;
 color: lime;
 position:absolute;
-top:50%; 
-left:50%;
-margin-top:-14em;
-margin-left:-16em;
+top:calc(50vh); 
+left:calc(50vw);
+margin-top:-10em;
+margin-left:-15em;
 }
 
 	

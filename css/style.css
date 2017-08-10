@@ -9,7 +9,6 @@ a:link {
 {
 height:100px; 
 width:100px;
-
 border-radius:50%;
 
 }
@@ -30,7 +29,7 @@ background-size:100% auto;
 {
 
 font-family: "Courier";
-font-size: 25px;
+font-size: 23px;
 text-align:center;
 color: lime;
 position:absolute;

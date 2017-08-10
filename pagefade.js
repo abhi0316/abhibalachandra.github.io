@@ -10,6 +10,6 @@ this.fadeOut(fadeout, redirectPage);
   function redirectPage() {
 window.location.disabled= linkLocation;
   }
-  return this;
+  
 };
 }(jQuery));

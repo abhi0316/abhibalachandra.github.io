@@ -38,5 +38,12 @@ left:calc(50vw);
 margin-top:-9em;
 margin-left:-16em;
 }
-
+.skills
+{
+	font-family:"Courier";
+	color:lime;
+	position:absolute;
+	top:calc(80vh);
+	left:calc(50vw);
+}
 	

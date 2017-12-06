@@ -7,8 +7,8 @@ a:link {
 
 .pic
 {
-height:30vh; 
-width:30vh;
+height:25vh; 
+width:25vh;
 border-radius:50%;
 
 }
@@ -17,12 +17,12 @@ border-radius:50%;
 
 {
 text-align:center;
-height:100%;
-width:100%;
-background:black;
-background:linear-gradient(to left,black,#2f4f4f);
-background:-moz-linear-gradient(left,black,#2f4f4f);
-background-size:100% auto;
+height:100vh;
+width:100vw;
+background:#2f4f4f;
+background:linear-gradient(black,#2f4f4f);
+
+
 }
 
 .details

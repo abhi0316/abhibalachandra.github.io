@@ -7,8 +7,8 @@ a:link {
 
 .pic
 {
-height:100px; 
-width:100px;
+height:30vh; 
+width:30vh;
 border-radius:50%;
 
 }
@@ -29,21 +29,20 @@ background-size:100% auto;
 {
 
 font-family: "Courier";
-font-size: 23px;
+font-size: 4vh;
 text-align:center;
 color: lime;
-position:absolute;
-top:calc(50vh); 
-left:calc(50vw);
-margin-top:-9em;
-margin-left:-18em;
+//position:absolute;
+top:50vh; 
+left:50vw;
+//margin-top:-9em;
+//margin-left:-18em;
 }
 .skills
 {
 	font-family:"Courier";
 	color:lime;
-	position:absolute;
-	top:calc(80vh);
-	left:calc(40vw);
+	top:80vh;
+	left:50vw;
 }
 	

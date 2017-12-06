@@ -1,3 +1,6 @@
+html {
+    height: 100%;
+}
 
 a:link {
     color: lime;
@@ -7,21 +10,23 @@ a:link {
 
 .pic
 {
-height:25vh; 
-width:25vh;
+margin-top:10vh;
+height:23vh; 
+width:23vh;
 border-radius:50%;
 
 }
 
-.abhi
+body
 
 {
 text-align:center;
-height:103vh;
-width:100vw;
-background:#2f4f4f;
+height:100%;
+width:100%;
+margin: 0;
+background-repeat:no-repeat;
 background:linear-gradient(black,#2f4f4f);
-
+background-attachment: fixed;
 
 }
 
